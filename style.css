@@ -1,0 +1,13 @@
+h1 {
+  border: 5px pink solid;
+  max-width: 800px;
+  margin: 50px;
+}
+
+body {
+  background-color: darkblue;
+}
+
+.pink-text {
+  color: pink;
+}
